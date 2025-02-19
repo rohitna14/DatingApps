@@ -3,8 +3,9 @@ using API.Entities;
 using Microsoft.EntityFrameworkCore;
 
 namespace API.Data;
-
-public class DataContext(DbContextOptions options) : DbContext(options)
+public class DataContext : DbContext
 {
+    public DataContext(DbContextOptions<DataContext> options) : base(options) { }
+
     public required DbSet<AppUser> Users { get; set; }
 }
