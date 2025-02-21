@@ -163,3 +163,5 @@ C:\Users\pramo\DatingApps\api\obj\Debug\net8.0\refint\API.dll
 C:\Users\pramo\DatingApps\api\obj\Debug\net8.0\API.pdb
 C:\Users\pramo\DatingApps\api\obj\Debug\net8.0\API.genruntimeconfig.cache
 C:\Users\pramo\DatingApps\api\obj\Debug\net8.0\ref\API.dll
+C:\Users\pramo\DatingApps\api\bin\Debug\net8.0\CloudinaryDotNet.dll
+C:\Users\pramo\DatingApps\api\bin\Debug\net8.0\Newtonsoft.Json.dll
